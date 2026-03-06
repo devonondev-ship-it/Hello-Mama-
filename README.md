@@ -4,7 +4,7 @@ Welcome to my very first GitHub repository! I am a self-taught developer from Th
 🎯 Goal
 My goal is to build a cozy Anime-inspired Recipe Portal where I share my favorite dishes like Pad Thai.
 
-🛠️ What I learned so far
+## 🛠️ What I learned so far
 
 ## Day 1: HTML Basics
 - Structure: Understanding <html>, <head>, and <body>.
