@@ -25,14 +25,20 @@ My goal is to build a cozy **Anime-inspired Recipe Portal** where I share my fav
 - **Smooth Animations**: Added `transition` to control the duration of style changes (e.g., `0.15s` for a snappy feel).
 - **Visual Comparison**: Created a direct side-by-side view of HTML buttons with and without CSS to showcase the power of styling.
 
-### Tag 4: Advanced CSS Interaction & UX Design
-Heute lag der Fokus auf der Optimierung der User Experience (UX) und der Lösung von CSS-Syntax-Herausforderungen.
+### Day 4: Advanced CSS Interaction & UX Design
+- **Heute lag der Fokus auf der Optimierung der User Experience (UX) und der Lösung von CSS-Syntax-Herausforderungen.
+- **Interactive Buttons: Implemented modern "click" feedback using a combination of translateY(1px) and scale(0.98).
+- **CSS Architecture: Learned that multiple transform properties must be combined in a single line to prevent them from overwriting each other.
+- **Search Bar Design:
+- **Integrated a search icon using background-image and aligned it correctly via padding-left.
+- **Shifted from static margin-left to margin: 0 auto to ensure a more responsive layout.
+- **Code Cleanup: Corrected syntax errors to ensure consistent browser rendering.
+- **Experiments: Conducted a direct comparison between physical "push" feedback and digital "scale" feedback.
 
-- **Interaktive Buttons**: Implementierung eines modernen „Klick“-Feedbacks durch die Kombination von `translateY(1px)` und `scale(0.98)`.
-- **CSS-Architektur**: Verständnis entwickelt, dass multiple `transform`-Eigenschaften in einer einzigen Zeile kombiniert werden müssen, um ein Überschreiben zu verhindern.
-- **Suchleisten-Design**: 
-    - Integration eines Lupen-Icons mittels `background-image` und korrekte Ausrichtung über `padding-left`.
-    - Umstellung von statischem `margin-left` auf das zentrierte `margin: 0 auto`, um ein responsiveres Layout zu gewährleisten.
-- **Code-Bereinigung**: Korrektur von Syntaxfehlern, um eine saubere Browser-Interpretation sicherzustellen.
-
-*Experimente: Direkter Vergleich zwischen physischem „Drück“-Feedback und digitalem „Scale“-Feedback.*
+### Day 5: Web Typography & Interface Analysis
+- **Today, I focused on mastering web typography and analyzing real-world interfaces to understand structural design.
+- **Typography Fundamentals: Implemented global font styling using CSS selectors (e.g., p { font-family: Arial; }) to maintain clean, DRY (Don't Repeat Yourself) code.
+- **Interface Analysis: Utilized Browser Developer Tools (F12) to reverse-engineer professional designs and understand layout hierarchies.
+- **Precision Styling with <span>: Used the <span> element as an "inline-tool" to apply styles to specific text segments without disrupting the document flow.
+- **HTML Entities: Implemented HTML entities for special characters (like &#183;) to ensure consistent rendering across different browsers.
+- **Advanced Interaction: Refined button styles using transform: scale() with smooth transition properties for a more professional UX.
